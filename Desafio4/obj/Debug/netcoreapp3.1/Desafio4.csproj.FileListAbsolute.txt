@@ -1,0 +1,13 @@
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\LocalizaLabs .NET Developer #2\Desafios C#\Desafio4\bin\Debug\netcoreapp3.1\Desafio4.exe
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\LocalizaLabs .NET Developer #2\Desafios C#\Desafio4\bin\Debug\netcoreapp3.1\Desafio4.deps.json
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\LocalizaLabs .NET Developer #2\Desafios C#\Desafio4\bin\Debug\netcoreapp3.1\Desafio4.runtimeconfig.json
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\LocalizaLabs .NET Developer #2\Desafios C#\Desafio4\bin\Debug\netcoreapp3.1\Desafio4.runtimeconfig.dev.json
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\LocalizaLabs .NET Developer #2\Desafios C#\Desafio4\bin\Debug\netcoreapp3.1\Desafio4.dll
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\LocalizaLabs .NET Developer #2\Desafios C#\Desafio4\bin\Debug\netcoreapp3.1\Desafio4.pdb
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\LocalizaLabs .NET Developer #2\Desafios C#\Desafio4\obj\Debug\netcoreapp3.1\Desafio4.csprojAssemblyReference.cache
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\LocalizaLabs .NET Developer #2\Desafios C#\Desafio4\obj\Debug\netcoreapp3.1\Desafio4.csproj.CoreCompileInputs.cache
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\LocalizaLabs .NET Developer #2\Desafios C#\Desafio4\obj\Debug\netcoreapp3.1\Desafio4.AssemblyInfoInputs.cache
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\LocalizaLabs .NET Developer #2\Desafios C#\Desafio4\obj\Debug\netcoreapp3.1\Desafio4.AssemblyInfo.cs
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\LocalizaLabs .NET Developer #2\Desafios C#\Desafio4\obj\Debug\netcoreapp3.1\Desafio4.dll
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\LocalizaLabs .NET Developer #2\Desafios C#\Desafio4\obj\Debug\netcoreapp3.1\Desafio4.pdb
+C:\Users\labreu\Documents\Pessoal\Cursos\DIO\Bootcamps\LocalizaLabs .NET Developer #2\Desafios C#\Desafio4\obj\Debug\netcoreapp3.1\Desafio4.genruntimeconfig.cache
